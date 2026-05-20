@@ -5671,7 +5671,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 55.88 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -5751,7 +5751,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 57.15 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -5831,7 +5831,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_FSMSM"
 			(at 26.67 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -5912,7 +5912,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 82.55 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -6135,7 +6135,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm"
 			(at 43.18 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -6270,7 +6270,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 49.53 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -6351,7 +6351,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 107.95 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -6433,7 +6433,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 53.34 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -6513,7 +6513,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 24.13 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -6595,7 +6595,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
 			(at 116.84 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -6755,7 +6755,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 86.36 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -6837,7 +6837,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 19.05 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -6919,7 +6919,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 110.49 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7001,7 +7001,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 106.68 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -7249,7 +7249,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 34.29 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -7561,7 +7561,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 120.65 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -7641,7 +7641,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A"
 			(at 38.1 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -7768,7 +7768,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 41.91 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -7849,7 +7849,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 77.47 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -8173,7 +8173,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 57.15 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -8255,7 +8255,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 118.11 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -8339,7 +8339,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 82.55 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -8521,7 +8521,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 36.83 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -8681,7 +8681,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 49.53 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -8761,7 +8761,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
 			(at 125.73 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -8921,7 +8921,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 24.13 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -9001,7 +9001,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 104.14 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -9317,7 +9317,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_FSMSM"
 			(at 58.42 72.39 0)
 			(hide yes)
 			(show_name no)
