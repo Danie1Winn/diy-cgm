@@ -5956,7 +5956,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0525792b-bdc4-4657-8efb-8a2ee6ec8c66")
-		(property "Reference" "U5"
+		(property "Reference" "U4"
 			(at 49.784 161.544 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6036,7 +6036,7 @@
 		(instances
 			(project "cgm_project"
 				(path "/56312daa-544d-4a20-aa90-3dd296ddb5b0"
-					(reference "U5")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -6359,7 +6359,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3541d522-736e-40d9-8bc8-de3ac2b59259")
-		(property "Reference" "J4"
+		(property "Reference" "J3"
 			(at 125.984 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6424,7 +6424,7 @@
 		(instances
 			(project "cgm_project"
 				(path "/56312daa-544d-4a20-aa90-3dd296ddb5b0"
-					(reference "J4")
+					(reference "J3")
 					(unit 1)
 				)
 			)
